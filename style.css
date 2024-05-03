@@ -17,11 +17,13 @@
     font-size: 22px;
 }
 
-.escola-imagem{
-width:25%;
-}
-
 * {
     margin: 0;
     padding: 0;
 }
+    <section class="escola">
+<h2 class="ecola-titulo">Sobre a Escola</h2>
+<p class="escola texto um"></p>
+<p class="escola-texto-dois"></p>
+
+</section>
